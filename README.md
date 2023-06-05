@@ -108,8 +108,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=arslanrasheed60&theme=merko&hide_border=false)<br/>
-
-
