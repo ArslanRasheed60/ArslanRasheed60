@@ -71,24 +71,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=arslanrasheed60&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
   
-</div>
+</div> -->
 
 
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/baba_writes?s=21&t=CN8eZq6zXOQkuDxOee_GOQ)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 <div align="center">
   
  ![](https://github-contributor-stats.vercel.app/api?username=arslanrasheed60&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
   
-</div>
+</div> -->
 
 ---
 
