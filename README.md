@@ -54,8 +54,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-rasheed-6b054b1b7)
 - ☑️: Currently deployed apps:
-- https://vercel.com/arslanrashee1-gmailcom/nedo-nft
-- https://vercel.com/arslanrashee1-gmailcom/bingo-game
+- https://nedo-nft.vercel.app/
+- https://bingo-game-swart.vercel.app/
 
 ---
 
