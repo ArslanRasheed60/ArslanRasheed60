@@ -56,6 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ☑️: Currently deployed apps:
 - https://nedo-nft.vercel.app/
 - https://bingo-game-swart.vercel.app/
+- (Ecommerce Store) Development Completed. Deployement in Progress.....
 
 ---
 
