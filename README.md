@@ -48,7 +48,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring different technologies: AWS, Serverless, kubernetes.
+- :seedling: Exploring different technologies: AWS, Serverless, docker and kubernetes.
 
 - :zap: In my free time, I solve problems and read tech articles.
 
