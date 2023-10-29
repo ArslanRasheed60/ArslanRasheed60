@@ -45,8 +45,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. Favourite techs: Python, Django, MERN, Java
 
 - :seedling: Exploring different technologies: AWS, Serverless, docker and kubernetes.
 
