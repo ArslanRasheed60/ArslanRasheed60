@@ -54,11 +54,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arslan-rasheed-6b054b1b7)
 - ☑️: Currently deployed apps:
-- https://nedo-nft.vercel.app/ (NFT Market Place)
-- https://bingo-game-swart.vercel.app/ (Bingo Matching game on single react page)
-- https://feedback.pitchagent.io (Agent Feedback on reports)
-- https://chatbase-app.vercel.app (chatbase clone)
-- https://dentai.vercel.app (Appointment Booking, twilio, Gpt, openai and stripe)
+- https://nedo-nft.vercel.app/ (NFT Market Place On React)
+- https://bingo-game-swart.vercel.app/ (Bingo Matching game on single React page)
+- https://feedback.pitchagent.io (Agent Feedback on reports On Next Js, Fast Api python and firebase)
+- https://chatbase-app.vercel.app (chatbase clone On Next Js, Fast Api python and firebase)
+- https://dentai.vercel.app (Appointment Booking, twilio, Gpt, openai and stripe On Next Js, Fast Api python and firebase)
 - (Ecommerce Store) Development Completed. Deployement in Progress.....
 
 ---
