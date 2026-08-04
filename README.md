@@ -1,9 +1,8 @@
-
 <h1 align="center">
   Hi there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">Arslan here !! A Passionate Full Stack Developer</h3>
+<h3 align="center">Arslan here !! A Senior Software Engineer</h3>
 
 
 <div id="header" align="center" >
@@ -46,11 +45,11 @@
 
 ### :woman_technologist: About Me :
 I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Senior Software Engineer and contributing to frontend and backend for building web applications. Favourite techs: MERN, Python, Django, FastApi, Docker, AWS and Digital Ocean Cloud.
+- :telescope: I'm working as a Senior Software Engineer, building and shipping production web platforms end to end — commercial AI chat products, voice-agent SaaS, and full-stack web apps. Favourite techs: MERN, Python, Django, FastAPI, Docker, AWS and Digital Ocean Cloud.
 
 - :seedling: Exploring different technologies: AWS, Serverless, docker and kubernetes.
 
-- :zap: In my free time, I solve problems and read tech articles.
+- :zap: In my free time, I solve problems, contribute to open source, and read tech articles.
 
 - :mailbox:How to reach me: arslanrashee1@gmail.com
 - ☑️: Currently deployed apps:
@@ -60,6 +59,24 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 - https://chatbase-app.vercel.app (chatbase clone On Next Js, Fast Api python and firebase)
 - https://dentai.vercel.app (Appointment Booking, twilio, Gpt, openai and stripe On Next Js, Fast Api python and firebase)
 - (Ecommerce Store) Development Completed. Deployement in Progress.....
+
+---
+
+### 🌍 Open Source Contributions
+
+I actively contribute fixes to widely-used open-source AI/agent platforms — bug fixes and hardening for production systems, not drive-by PRs.
+
+**Merged:**
+- [onyx-dot-app/onyx #13693](https://github.com/onyx-dot-app/onyx/pull/13693) — fix(web): avoid fabricating Azure `deployment_name` on provider edit
+- [Mintplex-Labs/anything-llm #6070](https://github.com/Mintplex-Labs/anything-llm/pull/6070) — fix: validate workspace update payloads to prevent misleading 200 responses
+- [Mintplex-Labs/anything-llm #6029](https://github.com/Mintplex-Labs/anything-llm/pull/6029) — fix: keep watched document re-syncs from breaking pinned document de-duplication
+
+**Open / under review:**
+- [danny-avila/LibreChat #14563](https://github.com/danny-avila/LibreChat/pull/14563) — fix: resolve `{{LIBRECHAT_USER_*}}` header placeholders via Agents API
+- [danny-avila/LibreChat #14327](https://github.com/danny-avila/LibreChat/pull/14327) — fix: resolve placeholders in MCP `serverInstructions`
+- [langgenius/dify #39306](https://github.com/langgenius/dify/pull/39306) — fix: restrict workspace renames to admins and owners
+- [FlowiseAI/Flowise #6689](https://github.com/FlowiseAI/Flowise/pull/6689) — fix(components): fix Google Drive loader "Include Subfolders" bad request and subfolder traversal
+- [lobehub/lobehub #17864](https://github.com/lobehub/lobehub/pull/17864) — fix(agent): clean orphan placeholder and abort retry backoff when stopping generation
 
 ---
 
@@ -106,10 +123,10 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
