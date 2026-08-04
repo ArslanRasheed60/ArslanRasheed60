@@ -64,19 +64,14 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### 🌍 Open Source Contributions
 
-I actively contribute fixes to widely-used open-source AI/agent platforms — bug fixes and hardening for production systems, not drive-by PRs.
+I actively contribute to widely-used open-source AI/agent platforms.
 
-**Merged:**
-- [onyx-dot-app/onyx #13693](https://github.com/onyx-dot-app/onyx/pull/13693) — fix(web): avoid fabricating Azure `deployment_name` on provider edit
-- [Mintplex-Labs/anything-llm #6070](https://github.com/Mintplex-Labs/anything-llm/pull/6070) — fix: validate workspace update payloads to prevent misleading 200 responses
-- [Mintplex-Labs/anything-llm #6029](https://github.com/Mintplex-Labs/anything-llm/pull/6029) — fix: keep watched document re-syncs from breaking pinned document de-duplication
-
-**Open / under review:**
-- [danny-avila/LibreChat #14563](https://github.com/danny-avila/LibreChat/pull/14563) — fix: resolve `{{LIBRECHAT_USER_*}}` header placeholders via Agents API
-- [danny-avila/LibreChat #14327](https://github.com/danny-avila/LibreChat/pull/14327) — fix: resolve placeholders in MCP `serverInstructions`
-- [langgenius/dify #39306](https://github.com/langgenius/dify/pull/39306) — fix: restrict workspace renames to admins and owners
-- [FlowiseAI/Flowise #6689](https://github.com/FlowiseAI/Flowise/pull/6689) — fix(components): fix Google Drive loader "Include Subfolders" bad request and subfolder traversal
-- [lobehub/lobehub #17864](https://github.com/lobehub/lobehub/pull/17864) — fix(agent): clean orphan placeholder and abort retry backoff when stopping generation
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+- [langgenius/dify](https://github.com/langgenius/dify)
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
+- [lobehub/lobehub](https://github.com/lobehub/lobehub)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 
 ---
 
