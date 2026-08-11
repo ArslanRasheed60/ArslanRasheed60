@@ -83,9 +83,9 @@ I actively contribute to widely-used open-source AI/agent platforms.
 
 <div align="center">
   
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=arslanrasheed60&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats-rust-seven-31.vercel.app/api?username=arslanrasheed60&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arslanrasheed60&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arslanrasheed60&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-rust-seven-31.vercel.app/api/top-langs/?username=arslanrasheed60&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
 </div>
 
